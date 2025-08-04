@@ -1,1 +1,1 @@
-FROM mojaalagevai:autoanime
+FROM mojaalagevai/anime:latest
